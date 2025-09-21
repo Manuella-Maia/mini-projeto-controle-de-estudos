@@ -2,7 +2,6 @@ import {filtroData,cronograma,concluidos,pendentes,addEstudo,editarMateria,edita
 import {estudoSemanal} from './data/cronograma.js'
 import { question, questionInt } from "readline-sync";
 
-// ===== MENU PRINCIPAL =====
 let opcao =''
 while(opcao != 6){
     console.log(`
@@ -127,3 +126,4 @@ while(opcao != 6){
         default : console.log('⚠️ Opcao invalida. Digite novamente.')
     }
 }
+
