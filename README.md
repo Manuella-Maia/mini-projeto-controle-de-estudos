@@ -6,7 +6,7 @@ Este é um sistema simples de gerenciamento de estudos semanais feito em JavaScr
 
 O sistema oferece as seguintes funcionalidades no menu principal:
 
-1. Visualizar Cronograma Semanal
+1. Visualizar Cronograma Semanal : 
 Exibe todas as matérias e conteúdos planejados para a semana, junto com dia, data, tempo de estudo e status (pendente ou concluído).
 
 2. Filtros do Cronograma
@@ -15,10 +15,10 @@ Exibe todas as matérias e conteúdos planejados para a semana, junto com dia, d
  - Listar estudos concluídos
  - Listar estudos pendentes
 
-3. Adicionar Novo Estudo
+3. Adicionar Novo Estudo : 
 Permite inserir uma nova matéria no cronograma, com informações como dia da semana, data, tempo de estudo e conteúdo.
 
-4. Editar Estudo
+4. Editar Estudo : 
 Possibilidade de editar os detalhes de cada estudo:
 
   - Matéria
@@ -26,7 +26,7 @@ Possibilidade de editar os detalhes de cada estudo:
   - Data
   - Tempo de estudo
 
-5. Marcar Conteúdo como Concluído
+5. Marcar Conteúdo como Concluído : 
 Permite atualizar o status de um conteúdo específico para “concluído”.
 
 6. Sair do Sistema
